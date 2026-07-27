@@ -4,7 +4,7 @@
 
 ### Advertising & Marketing Management Platform
 
-<img src="./ashoka-demo.png" alt="Ashoka Advertisement" width="700"/>
+<img src="ashoka.png" alt="Ashoka Advertisement" width="700"/>
 
 <br>
 
